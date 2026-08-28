@@ -1,0 +1,21 @@
+
+Content Action Playbook Summary
+
+Pages scored: 30,000
+
+Top 10% priority cutoff: 0.9268
+
+Pages in top 10%: 3,000
+
+Mean priority score: 0.4320
+
+Recommended actions:
+recommended_action
+Monitor                    10193
+Refresh and review          6905
+Content review              5661
+Investigate and refresh     4074
+Freshness review            2186
+Optimization review          981
+
+The model output is decision-support only. Pages should be reviewed by a human before any content change is made.
